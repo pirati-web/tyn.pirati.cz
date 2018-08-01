@@ -1,0 +1,1 @@
+# tyn.pirati.cz
