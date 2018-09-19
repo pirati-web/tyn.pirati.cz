@@ -1,0 +1,61 @@
+[
+  { "label": "Stanovy Pirátské strany", "value": "/o-nas/stanovy.html"},
+  { "label": "Registr smluv Pirátské strany", "value": "http://smlouvy.pirati.cz"},
+  { "label": "Úkolovník", "value": "http://redmine.pirati.cz"},
+  { "label": "Výkaz práce", "value": "http://redmine.pirati.cz"},
+  { "label": "Otevřenost", "value": "/otevrenost"},
+  { "label": "Transparence", "value": "/otevrenost"},
+  { "label": "Transparenost", "value": "/otevrenost"},
+  { "label": "Kalendář", "value": "/pripoj-se/kalendar"},
+  { "label": "Akce", "value": "/pripoj-se/kalendar"},
+  { "label": "Události", "value": "/pripoj-se/kalendar"},
+  { "label": "Transparentní účet", "value": "https://www.fio.cz/ib2/transparent?a=2100048174"},
+  { "label": "Otevřené účetnictví", "value": "https://wiki.pirati.cz/fo/otevrene_ucetnictvi"},
+  { "label": "Pirátské listy", "value": "https://piratskelisty.cz"},
+  { "label": "Noviny", "value": "https://piratskelisty.cz"},
+  { "label": "Dlouhodobý program Pirátské strany", "value": "/program/strana.html"},
+  { "label": "Připoj se", "value": "/pripoj-se"},
+  { "label": "Přidej se", "value": "/pripoj-se"},
+  { "label": "Členství ve straně", "value": "/pripoj-se"},
+  { "label": "Newsletter", "value": "/pripoj-se"},
+  { "label": "Novinky na e-mail", "value": "/pripoj-se"},
+  
+  
+    { "label": "Jan Novák", "value": "/lide/jan-novak/"},
+  
+    { "label": "Simon Kostadinov", "value": "/lide/simon-kostadinov/"},
+  
+  
+    { "label": "", "value": "/404"},
+  
+    { "label": "About", "value": "/about/"},
+  
+    { "label": "Aktuality", "value": "/aktuality/"},
+  
+    { "label": "", "value": "/tags/"},
+  
+    { "label": "Program pro komunální volby 2018", "value": "/program/"},
+  
+    { "label": "", "value": "/lide/"},
+  
+    { "label": "", "value": "/"},
+  
+    { "label": "[pirati.cz]({{‘/’ relative_url}})/api", "value": "/api/"},
+  
+    { "label": "", "value": "/api/people.json"},
+  
+    { "label": "", "value": "/api/posts.json"},
+  
+    { "label": "", "value": "/api/search.json"},
+  
+    { "label": "", "value": "/api/tags.json"},
+  
+    { "label": "", "value": "/assets/css/main.css"},
+  
+    { "label": "", "value": "/feed.xml"},
+  
+    { "label": "", "value": "/sitemap.xml"},
+  
+    { "label": "", "value": "/robots.txt"}
+  
+]
