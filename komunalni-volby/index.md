@@ -1,11 +1,11 @@
 ---
 layout: communal-elections
-title: Komunální volby v Praze
-campaignCategoryUid: praha2018
+title: Komunální volby v Týně nad Vltavou
+campaignCategoryUid: tnv2018
 candidateListUid: radnice # uid z `_candidates/radnice.md`
 ---
 
-Úvodní text např. vysvětlení koalice, podpory.
+**Veřejný zájem musí převládnout nad klientelismem.** Na ztracenou důvěru v politiku přinášíme tato témata: **Transparentní politika, Průhledné hospodaření a rozhodování s účastí občanů.** Rozumíme novým technologiím. A dokážeme je využít k usnadnění života, **ke komunikaci s úřady z domova a k věrohodnější demokratické správě města.**
 
-> "Vyhrajeme volby," říká leader.
+> "Společně otevřeme město," říká leader.
 
