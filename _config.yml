@@ -57,8 +57,8 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Piráti
+  profilePage: https://www.facebook.com/PiratiTyn/
+  profilePageName: Piráti Týn nad Vltavou
   appId: 1526197851008996
 
 twitter:
