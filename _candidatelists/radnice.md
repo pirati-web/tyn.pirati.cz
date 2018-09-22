@@ -73,6 +73,4 @@ tail: # zbytek kandidatky
     age: 27
     profession: market. specialista
     party: bez politické příslušnosti
-note: # poznámka pod kanidátku
-    Primárky stále běží. Zbytek kandidátky zveřejníme, jakmile doběhnou.
 ---
