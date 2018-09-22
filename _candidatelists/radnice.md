@@ -14,17 +14,17 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: technik JETE
     party: Piráti
     age: 23
-  - uid: miroslav.zunt
-    profession: OSVČ
-    age: 40
-    party: bez politické příslušnosti
-  - uid: tomáš.novák
-    age: 50
-    profession: IT administrátor
-    party: bez politické příslušnosti
 tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
+  - name: Miroslav Zunt
+    age: 40
+    profession: OSVČ
+    party: bez politické příslušnosti
+  - name: Tomáš Novák
+    age: 50
+    profession: IT administrátor
+    party: bez politické příslušnosti
   - name: Zuzana Földesiová
     age: 45
     profession: Finanční specialistka
