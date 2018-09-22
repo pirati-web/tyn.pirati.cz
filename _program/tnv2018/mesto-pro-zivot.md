@@ -17,7 +17,7 @@ order: 2
     <dt>Zlepšení čistoty ulic a veřejných prostranství ve městě.</dt>
     <dd>Systematická podpora třídění odpadu.</dd>
     <dt>Kvalitní odborná péče o zeleň.</dt>
-    <dd>Levná opatření pro přírodu ve městě (např. ohleduplné sečení, “motýlí louky”).</dd>
+    <dd>Levná opatření pro přírodu ve městě (např. ohleduplné sečení, motýlí louky).</dd>
 </dl>
 
 ## Město, které nenudí a žije
