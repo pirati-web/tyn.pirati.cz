@@ -4,6 +4,7 @@ name:     Jan Novák  	# běžně používáné jméno
 fullname: Jan Novák  	# jméno s tituly etc.
 category:                 	# kategorie: 
 - pms
+- kontaktni_osoba
 img: people/jan-novak.jpg   # 165 x 220
 description: předseda okresního sdružení Pirátů v Českých Budějovicích           	# kratký popis, max 160 znaků
 mail:
