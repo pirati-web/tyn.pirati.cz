@@ -12,7 +12,7 @@ gem "jekyll", "~> 3.7.3"
 
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll-theme-pirati", "~>0.3.0"
+gem "jekyll-theme-pirati", "~>6.7.2"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
