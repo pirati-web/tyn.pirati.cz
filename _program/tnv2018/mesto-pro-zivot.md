@@ -11,26 +11,14 @@ order: 2
 
 ## Zelené a čisté město
 
-<dl class="c-program-key-point-list">
-    <dt>Ochrana a rozvoj rekreačních území.</dt>
-    <dd>Budeme se důsledně starat o rozvoj všech sportovišt a rekreačních ploch. Zlepšíme vybavenost, zasadíme se o důslednou údržbu všech sportovišť.</dt>
-    <dt>Zlepšení čistoty ulic a veřejných prostranství ve městě.</dt>
-    <dd>Systematická podpora třídění odpadu.</dd>
-    <dt>Kvalitní odborná péče o zeleň.</dt>
-    <dd>Levná opatření pro přírodu ve městě (např. ohleduplné sečení, motýlí louky).</dd>
-</dl>
++ **Ochrana a rozvoj rekreačních území.** Budeme se důsledně starat o rozvoj všech sportovišt a rekreačních ploch. Zlepšíme vybavenost, zasadíme se o důslednou údržbu všech sportovišť.
++ **Zlepšení čistoty ulic a veřejných prostranství ve městě.** Systematická podpora třídění odpadu.
++ **Kvalitní odborná péče o zeleň.** Levná opatření pro přírodu ve městě (např. ohleduplné sečení, motýlí louky).
 
 ## Město, které nenudí a žije
 
-<dl class="c-program-key-point-list">
-    <dt>Otevřené architektonické soutěže</dt>
-    <dd>se musí stát standardem při každé velké investici do veřejného prostoru a vybavenosti.</dd>
-    <dt>Ozelenění náměstí Mládeže.</dt>
-    <dd> - nejprve na zkoušku v květináčích. Osvědčí-li se, pak natrvalo. </dd>
-    <dt>Rozvoj přidružených obcí</dt>
-    <dd>s ohledem na přání místních.</dd>
-    <dt>Oživení přirozených místních center.</dt>
-    <dd>Například náprava neutěšeného stavu kulturního domu Hlinky (a bývalého kina). Kulturní a sportovní život patří do celého Vltavotýnska!</dd>
-    <dt>Transparentní záměr podpory sportů</dt>
-    <dd> na amatérské nebo profesionální úrovni. Sladěný s dalšími městy dle jejich úspěchů (např. písecká házená, ledenický baseball, ...).</dd>
-</dl>
++ **Otevřené architektonické soutěže** se musí stát standardem při každé velké investici do veřejného prostoru a vybavenosti.
++ **Ozelenění náměstí Mládeže** - nejprve na zkoušku v květináčích. Osvědčí-li se, pak natrvalo. 
++ **Rozvoj přidružených obcí** s ohledem na přání místních.
++ **Oživení přirozených místních center.** Například náprava neutěšeného stavu kulturního domu Hlinky (a bývalého kina). Kulturní a sportovní život patří do celého Vltavotýnska!
++ **Transparentní záměr podpory sportů** na amatérské nebo profesionální úrovni. Sladěný s dalšími městy dle jejich úspěchů (např. písecká házená, ledenický baseball, ...).
