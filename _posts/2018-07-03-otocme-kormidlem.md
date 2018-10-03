@@ -1,5 +1,5 @@
 ---
-date: 2018-09-28
+date: 2018-07-03
 category: blog
 tags: volby volby2018 manifest
 title: Otočme kormidlem
