@@ -1,5 +1,5 @@
 ---
-date: 2018-09-29
+date: 2018-07-01
 category: blog
 tags: volby volby2018 
 title: Volit Piráty z Týna má smysl
