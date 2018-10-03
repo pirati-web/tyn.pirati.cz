@@ -18,7 +18,7 @@ administrator:
 organization:
   name: Piráti Týn nad Vltavou
   shortName: Týn nad Vltavou
-#  email: example@pirati.cz
+  email: jan.novak@pirati.cz
 #  phone: +420 777 123 456 789
 #  address: |
 #    Řehořova 943/19,
@@ -39,12 +39,7 @@ contactSummaryItems:
   - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
-  - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
