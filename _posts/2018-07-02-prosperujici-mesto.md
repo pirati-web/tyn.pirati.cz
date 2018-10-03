@@ -1,5 +1,5 @@
 ---
-date: 2018-09-28
+date: 2018-07-02
 category: blog
 tags: volby volby2018 prosperujici stehovani
 title: Piráti chtějí prosperující město, odkud se lidé nestěhují
