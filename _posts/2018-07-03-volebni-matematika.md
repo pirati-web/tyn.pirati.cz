@@ -1,5 +1,5 @@
 ---
-date: 2018-09-29
+date: 2018-07-03
 category: blog
 tags: matematika volby volby2018 
 title: Malá volební matematika
