@@ -4,7 +4,7 @@ category: blog
 tags: 
     - Simon Kostadinov 
     - spot
-title: Spot Simona Kostadina
+title: Spot Simona Kostadinova
 author: Simon Kostadinov
 authorId: simon.kostadinov    # uid nekoho z _people (nepoviné)
 image: posts/800px-tyn_nad_vltavou.jpg
