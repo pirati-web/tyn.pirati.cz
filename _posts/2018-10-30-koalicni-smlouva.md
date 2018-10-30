@@ -18,4 +18,4 @@ Podpory se dočká také školství, ať už v podobě podpory grantových progr
 
 Jsme rádi, že se nám podařilo dohodnout se i na tom, že veškerá hlasování Rady budou jmenovitá, stejně jako hlasování zastupitelstva. Uskuteční se vstup do sdružení Otevřená města, budeme prosazovat transparenci města a městských firem v rámci platné legislativy. Investiční záměry nad 25 milionů korun budou muset být podloženy relevantními studiemi a projednány s občany města.
 
-Koaliční partneři podpisem koaliční smlouvy vyjádřili svůj souhlas s plněním koaličního programu, jehož celé znění naleznete…
+Koaliční partneři podpisem koaliční smlouvy vyjádřili svůj souhlas s plněním koaličního programu, jehož celé znění naleznete již brzi na našem webu.
