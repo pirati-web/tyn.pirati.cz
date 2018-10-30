@@ -8,8 +8,8 @@ authorId:
 image: posts/koalicni-smlouva.png
 ---
 
-#Koaliční smlouva podepsána
-
+Koaliční smlouva podepsána
+======
 Týnští Piráti podepsali dnes, 30.10. 2018, koaliční programové prohlášení v rámci koaliční smlouvy. Spolu s ostatnimi koaličními stranami jsme určili hlavní priority, mezi něž patří například sestavování vyrovnaného rozpočtu města, upřednostňování investic do rozvoje a oprav infrastruktury města, ale také zkvalitnění života mladých rodin i seniorů. Obrovský důraz chceme klást na trensparenci veškerých kroků.
 
 Co se investice do infrastruktury týče, chtěli bychom realizovat opravu Havlíčkovy ulice, upravit park a vybudovat dětské hřiště, dojít by mělo i k realizaci projektu zvýšení podjezdné výšky železného mostu nebo revitalizace Hlinek. Pokračovat bude změna veřejného osvětlení na úspornější LED, v plánu je i návrh přírodního koupaliště. 
