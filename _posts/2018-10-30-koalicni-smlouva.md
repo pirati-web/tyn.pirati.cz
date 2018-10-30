@@ -5,7 +5,7 @@ tags: koalice smlouva
 title: Koaliční smlouva podepsána
 author: Týnští piráti
 authorId:
-image: posts/800px-tyn_nad_vltavou.jpg
+image: posts/koalicni-smlouva.png
 ---
 
 #Koaliční smlouva podepsána
