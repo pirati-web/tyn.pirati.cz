@@ -9,7 +9,7 @@ img: people/jan-novak.jpg   # 165 x 220
 description: předseda okresního sdružení Pirátů v Českých Budějovicích           	# kratký popis, max 160 znaků
 mail:
 - jan.novak@pirati.cz
-mob: 770 113 638			  
+mob: 777 154 693			  
 profiles:
   github:                 
   facebook: 		  
