@@ -1,8 +1,8 @@
 ---
 date: 2019-03-25
 category: blog
-tags: Výbory, osadní výbory
-title: Osadní výbory
+tags: Ukliď česko
+title: Ukliďme svět, ukliďme Česko - Týn
 author: Týnští piráti
 authorId:
 image: posts/uklidmeCesko.jpg
