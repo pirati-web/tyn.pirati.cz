@@ -5,7 +5,7 @@ tags: Výbory, osadní výbory
 title: Osadní výbory
 author: Týnští piráti
 authorId:
-image: posts/800px-tyn_nad_vltavou.jpg
+image: posts/uklidmeCesko.jpg
 ---
 
 Pojďme společně ulidit město, ve kterém se denně pohybujeme a žijeme.
