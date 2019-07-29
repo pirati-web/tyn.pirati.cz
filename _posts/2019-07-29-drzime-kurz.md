@@ -13,7 +13,7 @@ Zdar lidi!
 Zdraví vás Bc. Jan Novák!  
 Už je to nějakej ten pátek, co jsem se dostal na Týnskou radnici. Piráti by měli bejt co nejvíce transparentní. Proto Vás chci pravidelně informovat o tom, co že to na tý radnici dělám. Nejvíc času zabírají Rady města (RM) - je to nejvyšší výkonný orgán městské samosprávy. Všechno důležité týkající se města tudy nějak projde - ať to již má RM dáno na vědomí, či navrhuje někomu dalšímu (typicky zastupitelstvu města - ZM), či přímo rozhoduje. RM je sice ze zákona neveřejná, to znamená, že tam nemůže chodit kdo chce. Pokud se ale nejedná o tajné věci, můžeme o tom aspoň informovat. Podívejme se tedy na to nejzajímavější z posledního zasedání.
 
-PS.: Chcete se dozvědět víc o tom, co dělám na radnici? Podívejte se na celý článek na našem [https://jihocesky.pirati.cz/](https://jihocesky.pirati.cz/)!
+PS.: Chcete se dozvědět víc o tom, co dělám na radnici? Podívejte se na celý článek na našem https://jihocesky.pirati.cz/!
 
 Držíme kurz!
 ==================================================
