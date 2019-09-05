@@ -15,7 +15,7 @@ Už je to nějakej ten pátek, co jsem se dostal na Týnskou radnici. Piráti by
 
 PS.: Chcete se dozvědět víc o tom, co dělám na radnici? Podívejte se na celý článek na našem https://jihocesky.pirati.cz/!
 
-Držíme kurz!
+Držíme kurzy!
 ==================================================
 
 Na RM proběhla bouřlivá diskuze ohledně petice za odstranění plotu kolem fotbalového hřiště. Zástupci SSO a (pro nás zcela překvapivě) [ODS Týn nad Vltavou](https://www.facebook.com/ODS-T%C3%BDn-nad-Vltavou-501697716910855/) se tvrdě postavili za ponechání plotu tam kde je s jednou kosmetickou změnou a nazvali to férovým kompromisem. Já a David Slepička chceme opravdový kompromis a především trváme na projednání na Zastupitelstvu města. Jedná se totiž o něco, co ovlivní mnoho obyvatel Týna. Vyjádřit se a vystoupit na zastupitelstvu je alespoň pro Piráty samozřejmost. O dalším vývoji této kauzy Vás budu informovat.
