@@ -5,7 +5,9 @@ date: 2019-09-18
 author: Týnští piráti
 authorId:
 image: posts/800px-tyn_nad_vltavou.jpg
-tags: Výbory, osadní výbory
+tags: 
+  - Výbory
+  - Osadní výbory
 ---
 
 V rámci ztransparentnění veřejné správy zpřístupňujeme důležité dokumenty.  V přiložených souborech si můžete projít, o čem se hlasovalo na osadním výboru v Hněvkovicích a Kolodějích nad Lužnicí.
