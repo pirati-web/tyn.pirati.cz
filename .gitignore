@@ -3,3 +3,9 @@ _site
 .jekyll-metadata
 .vagrant
 /*.log
+.bundle/
+.gitmodules
+.jekyll-cache/
+Gemfile.lock
+vendor/
+
