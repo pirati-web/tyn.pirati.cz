@@ -1,7 +1,7 @@
 ---
 category: blog
 title: Rozbor hospodaření města k 31.7.2019
-date: 2019-09-02
+date: 2019-09-18
 author: Týnští piráti
 authorId:
 image: posts/800px-tyn_nad_vltavou.jpg
