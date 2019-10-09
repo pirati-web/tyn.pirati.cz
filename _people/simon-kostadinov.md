@@ -5,7 +5,7 @@ fullname: Bc. Simon Kostadinov  	# jméno s tituly etc.
 category:                 	# kategorie: 
 - pms
 img: people/simon-kostadinov.jpg   # 165 x 220
-description: členem předsednictva Jihočeského kraje, místního sdružení Českobudějovicko a zahraničního odboru.            	# kratký popis, max 160 znaků
+description: Zastupitel města Týn nad Vltavou, Člen představenstva Vltavotýnské teplárenské         	# kratký popis, max 160 znaků
 mail:
 - simon.kostadinov@pirati.cz
 mob:			  
