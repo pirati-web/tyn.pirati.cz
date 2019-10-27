@@ -1,7 +1,7 @@
 ---
 category: blog
 title: Zveřejnění zápisů z osadních Nuzic a Předčic
-date: 2019-09-18
+date: 2019-09-30
 author: Týnští piráti
 authorId:
 image: posts/zamek.jpg
