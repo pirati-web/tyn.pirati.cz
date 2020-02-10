@@ -10,4 +10,4 @@ tags:
   - Piráti
 ---
 
-Jak hospdařilo město Týn nad Vltavou s vašimi penězi v uplynulém roce? Ukazuje to [Hodnotící zpráva od finančního odboru města](/assets/docs/hodnotici-zprava-mesta-za-rok-2019.rtf). Za Piráty mohu říct, že výsledek je pozitivní. Podařilo se nám zrealizovat rekordně projektů a ještě náš rozpočet skončil v přebytku. Tak snad to letos dopadne minimálně stejně dobře, protože i u nás v Týně držíme kurz!
+Jak hospdařilo město Týn nad Vltavou s vašimi penězi v uplynulém roce? Ukazuje to [Hodnotící zpráva od finančního odboru města](/assets/doc/hodnotici-zprava-mesta-za-rok-2019.rtf). Za Piráty mohu říct, že výsledek je pozitivní. Podařilo se nám zrealizovat rekordně projektů a ještě náš rozpočet skončil v přebytku. Tak snad to letos dopadne minimálně stejně dobře, protože i u nás v Týně držíme kurz!
