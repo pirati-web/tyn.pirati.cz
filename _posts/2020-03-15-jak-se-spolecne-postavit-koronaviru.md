@@ -50,5 +50,6 @@ Krize v nás probouzí i ty lepší stránky.
 Zvažuje vaše škola výuku online?
 Návod jak to udělat naleznete zde
 [https://neviditelnypes.lidovky.cz/spolecnost/skolstvi-zivy-video-stream-ze-skol.A200311_173743_p_spolecnost_wag](https://neviditelnypes.lidovky.cz/spolecnost/skolstvi-zivy-video-stream-ze-skol.A200311_173743_p_spolecnost_wag)
+
 Informace o omezení cestování naleznete zde
 [https://www.mvcr.cz/clanek/coronavirus-informace-mv.aspx](https://www.mvcr.cz/clanek/coronavirus-informace-mv.aspx)
