@@ -10,4 +10,4 @@ tags:
   - infolinky
 ---
 Sdílíme kontakty od PČR. Zároveň prosíme, abyste na tyto linky volali jen v odůvodněných případech a zbytečně je nepřetěžovali.
-<img src="../assets/posts/2020-03-18-telefonni-cisla.png">
+<img src="../assets/img/posts/2020-03-18-telefonni-cisla.png">
