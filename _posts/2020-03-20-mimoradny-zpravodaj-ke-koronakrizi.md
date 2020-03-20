@@ -1,6 +1,6 @@
 ---
 category: blog
-title: Mimořádný členský zpravodaj: Informace k epidemii koronaviru 20. 3.
+title: Mimořádný členský zpravodaj - Informace k epidemii koronaviru 20. 3.
 date: 2020-03-20
 author: Týnští piráti
 authorId:
@@ -18,7 +18,7 @@ Aktuální situace na území České republiky
 Česká republika je aktuálně 22. zemí na světě a 13. zemí v Evropě v žebříčku států dle počtu výskytu nakažení koronavirem. Počet pacientů k pátečnímu ránu vystoupal na číslo 774. Česko patří spolu s Itálií, Španělskem, Francií a Německem k evropským zemím, kde byla zavedená celostátní karanténa.
 
 Přehled přijatých opatření
-Pohyb osob
+<strong>Pohyb osob</strong>
 
 Do 24. března 6:00 je zakázán volný pohyb osob kromě nezbytných výjimek, jako jsou cesty do zaměstnání, za rodinou, za lékařem, nákup potravin, hygienických potřeb apod.
 Je zakázán pohyb mimo bydliště bez ochrany úst a nosu (je možné použít např. respirátor, roušku, šálu nebo šátek).
