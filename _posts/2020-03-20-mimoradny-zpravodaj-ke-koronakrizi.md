@@ -1,6 +1,6 @@
 ---
 category: blog
-title: Mimořádný členský zpravodaj - Informace k epidemii koronaviru 20. 3.
+title: Mimořádný členský zpravodaj: Informace k epidemii koronaviru 20. 3.
 date: 2020-03-20
 author: Týnští piráti
 authorId:
