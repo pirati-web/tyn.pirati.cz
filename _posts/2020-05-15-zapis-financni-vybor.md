@@ -1,6 +1,6 @@
 ---
 category: blog
-title: O čem se rozhodovalo na posledním finančním výboru?
+title: Co se probíralo na posledním finančním výboru?
 date: 2020-05-13
 author: Lukáš Hypša
 authorId:
