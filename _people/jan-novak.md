@@ -25,6 +25,7 @@ Během studií přičichl jak k elektrikářské, tak k IT praxi, pracoval v les
 Zajímá se o politologii, ať již co se týká politické filosofie, sociologie a marketingu, ale není mu cizí ani čistě komparativní politologie. Ze studia historie se nejvíce zabýval obdobím vzniku politických stran, politickými ideologiemi a totalitními systémy (vč. autoritativních) či životem běžného občana v takovýchto státech, a i proto je proti veškerému sledování osob a kontrole jejich pohybu. Mezi jeho další záliby patří sledování aktuální politické situace, četba, turistika, divadlo, hudba, kultura (hmotná i nehmotná), kinematografie a sport (zj. volejbal). Má rád, jako správný pirát, RUM.
 
 ### Příjmy radního Jana Nováka za činost v RM města Týn nad Vltavou
+
 | 2019     | 2020     |
 |----------|----------|
 | 6 871* Kč | 6 236* Kč |
