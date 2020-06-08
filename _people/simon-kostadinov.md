@@ -22,4 +22,19 @@ Odmaturoval na gymnáziu v Týně nad Vltavou. Dále vystudoval bakalářský ob
 
 Zajímá se o politické a všeobecné dění. Rád si posedí s přáteli, poslechne hudbu nebo se podívá na nějaký zajímavý film či seriál. Také se aktivně věnuje ochotnickému spolku v Neznašově. 
 
+### Příjmy zastupitele Simona Kostadinova za činost v zastupitelstvu města Týn nad Vltavou
 
+| 12/2018*  | 2/2019*   | 2/2020*   |
+|-----------|-----------|-----------|
+| 1460** Kč | 1563** Kč | 1718** Kč |
+
+\* - první měsíc s daným ohodnocením  
+\** - čistý měsíční příjem
+
+### Příjmy zastupitele Simona Kostadinova za činost v představenstvu Vltavotýnské teplárenské
+
+| 2018  | 2019   | 2020   |
+|-----------|-----------|--------|
+| 4198* Kč | 4198* Kč | 4198* Kč |
+
+\* - čistý měsíční příjem
