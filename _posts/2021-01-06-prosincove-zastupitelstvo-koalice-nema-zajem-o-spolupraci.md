@@ -31,8 +31,6 @@ Vzhledem k tomu, že na kraji se nám tentýž den podařilo prosadit rozklikáv
 
 Bohužel se na tomto případu ukázal propastný rozdíl mezi krajskou a týnskou samosprávou. Rozklikávací rozpočet v Týně jsme podpořili jen my, všichni zástupci ProTejnu a paní Fraňková (KDU).
 
- V diskuzi jsme upozornili, že trvalý pokles počtu obyvatel města výrazně snižuje i příspěvky do městské kasy a že je potřeba s tímto negativním a trvalým jevem bojovat.
-
 **Výběrové řízení na ředitele MCKV stále v nedohlednu, koaliční smlouva utajována**
 
 Již „klasicky“ jsme se dále zeptali, kdy bude vypsáno výběrové řízení na ředitele městské příspěvkové organizace – Městského centra kultury a vzdělávání (MCKV), v jehož čele stojí radní David Slepička (Změna 2020). Ptali jsme se, proč stále není vypsáno (ač to bylo slibováno), kdy bude vypsáno, a na důvody, proč koalice porušuje svoje veřejné sliby. Starosta Machálek (Trikolóra) se tázal všech radních, jestli chtějí odpovědět. Následovalo trapné ticho, které nakonec utnul sám starosta informací, že se koalice stále nedohodla. Že se koalice nedohodla na tom, kdy se vypíše výběrové řízení, ještě dokážeme pochopit, ale že nedokázala odpovědět na to, proč je ředitelem právě pan Slepička, je smutné. Inu koaliční kompromisy mezi ODS a KSČ jsou asi složité. 
