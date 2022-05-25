@@ -6,7 +6,7 @@ title: Tlak občanů a opozice nese ovoce, Slepička rezignoval (nejen) na post 
 date: '2021-11-10'
 author: Jan Novák
 image: posts/dsc0308.jpg
-description: 
+description: piráti týn nad vltavou
 tags:
   - Zastupitelstvo
 ---
