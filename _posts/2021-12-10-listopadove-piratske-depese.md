@@ -6,7 +6,7 @@ title: Listopadové pirátské depeše
 date: '2021-11-10'
 author: Jan Novák
 image: posts/listopadove-depese.jpg
-description: 
+description: piráti týn nad vltavou
 ---
 V listopadu neproběhlo zasedání zastupitelstva města, nicméně proběhly dvě velice důležitá setkání (nejen) týnských politických představitelů. Na prvním se jednalo o areálu Blanice. Jsme rádi, že radnice pomalu otáčí a slíbila ústy místostarostky Sudové a radní Pouzarové (obě ODS) nejprve připravit odborné podklady. Nebude se stavět/bourat/dělat závažné změny na rychlo, bez vize, bez plánu. Kvitujeme, že po roce od získání tříhektarového pozemku začalo město řešit strategii. Jak bude prostor Blanice vyřešen, jak bude vypadat, kdo v něm bude žít, co vše v něm bude, ovlivní totiž naše město na dlouho dopředu, proto je třeba jednat v maximální politické shodě, bez ohledu na stranickost či na osobní animozity. Upozornili jsme, že „super-komise“, kterou sestavila rada, se sešla jednou a nominace do ní proběhla bez účasti opozice. Například náš návrh nominovat Ing. Arch. Petra Leška, který se specializuje na architektonické soutěže a byl členem vedení celé profesní organizace architektů, nebyl vyslyšen. 
 
