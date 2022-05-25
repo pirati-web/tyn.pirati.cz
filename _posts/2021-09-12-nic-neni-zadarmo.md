@@ -7,7 +7,7 @@ date: '2021-09-12'
 author: Jan Novák
 image: posts/nic-neni-zadarmo.jpg
 
-description: 
+description: piráti týn nad vltavou
 tags:
   - Zastupitelstvo
 ---
