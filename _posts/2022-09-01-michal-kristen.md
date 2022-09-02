@@ -2,7 +2,7 @@
 layout: post
 category: blog
 published: true
-title: Michal Kristen: Místo Blanice bude nová moderní čtvrť, peníze může město sehnat z dotačních programů
+title: 'Michal Kristen: Místo Blanice bude nová moderní čtvrť, peníze může město sehnat z dotačních programů'
 date: '2022-09-01'
 author: Jan Novák
 image: posts/michal-kristen.jpg
