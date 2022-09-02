@@ -4,7 +4,7 @@ category: blog
 published: true
 title: 'Michal Kristen: Místo Blanice bude nová moderní čtvrť, peníze může město sehnat z dotačních programů'
 date: '2022-09-01'
-author: Jan Novák
+author: Luboš Kudláček
 image: posts/michal-kristen.jpg
 description: piráti týn nad vltavou
 ---
